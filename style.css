@@ -1,15 +1,5 @@
 body{
-    background-color: mediumspringgreen;
-}
-
-#score{
-    margin-left: 20px;
-    font-size: 35px;
-}
-
-#time{
-    margin-right: 20px;
-    font-size: 35px;
+    background-color: #fbd139;
 }
 
 h1{
